@@ -1,0 +1,22 @@
+[
+  { "Name": "postid", "Type": "string" },
+  { "Name": "dateposted", "Type": "date" },
+  { "Name": "hourposted", "Type": "string" },
+  { "Name": "usernametiktokaccount", "Type": "string" },
+  { "Name": "posturl", "Type": "string" },
+  { "Name": "views", "Type": "int" },
+  { "Name": "likes", "Type": "int" },
+  { "Name": "comments", "Type": "int" },
+  { "Name": "saves", "Type": "int" },
+  { "Name": "reposts", "Type": "int" },
+  { "Name": "totalinteractions", "Type": "int" },
+  { "Name": "engagement", "Type": "double" },
+  { "Name": "numberhashtags", "Type": "int" },
+  { "Name": "hashtags", "Type": "string" },
+  { "Name": "soundid", "Type": "string" },
+  { "Name": "soundurl", "Type": "string" },
+  { "Name": "regionpost", "Type": "string" },
+  { "Name": "datetracking", "Type": "date" },
+  { "Name": "timetracking", "Type": "string" },
+  { "Name": "userid", "Type": "int" }
+]
